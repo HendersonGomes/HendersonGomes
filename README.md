@@ -75,9 +75,7 @@ Engenharia boa é engenharia bem medida, bem orçada, bem explicada e bem proteg
   <img src="https://streak-stats.demolab.com?user=HendersonGomes&locale=pt_BR&hide_border=true&theme=default" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HendersonGomes&hide_border=true&area=true&theme=minimal" width="100%" />
-</p>
+
 
 <p align="center">
   📫 Vamos conversar: <a href="https://www.linkedin.com/in/henderson-gomes-3aa12537b">LinkedIn</a> · <a href="mailto:henderson.gomes11@gmail.com">E-mail</a>
