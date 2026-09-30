@@ -16,7 +16,7 @@ O ChatME nasceu de uma dor real: orçar, conferir e auditar obra consome horas p
 📘 Método executivo lido direto do Caderno Técnico oficial, com citação da fonte
 🔗 Serviços interligados: o que vem antes, durante e depois de cada etapa da obra
 ✅ Um robô de qualidade que testa mais de 100 perguntas reais a cada versão
-Repositório privado. Projeto em desenvolvimento ativo.
+🔒 Repositório privado. Projeto em desenvolvimento ativo.
 
 🛠️ Ferramentas
 Engenharia: SINAPI · Orçamento · Medição · BIM · Licitações · Perícia e Laudos
@@ -29,4 +29,5 @@ Tecnologia:
 💡 O que me move
 Engenharia boa é engenharia bem medida, bem orçada, bem explicada e bem protegida. Quero que qualquer engenheiro tenha, no bolso, a segurança técnica que levei anos para construir.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HendersonGomes&show_icons=true&count_private=true&hide_border=true&theme=default" height="150" /> </p> <p align="center"> 📫 Vamos conversar: <a href="https://www.linkedin.com/in/SEU-LINKEDIN">LinkedIn</a> · <a href="mailto:henderson.gomes11@gmail.com">E-mail</a> </p>
+📈 Atividade
+<p align="center"> <img src="https://streak-stats.demolab.com?user=HendersonGomes&locale=pt_BR&hide_border=true&theme=default" height="165" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HendersonGomes&hide_border=true&area=true&theme=minimal" width="100%" /> </p> <p align="center"> 📫 Vamos conversar: <a href="www.linkedin.com/in/henderson-gomes-3aa12537b">LinkedIn</a> · <a href="mailto:henderson.gomes11@gmail.com">E-mail</a> </p>
