@@ -29,4 +29,4 @@ Tecnologia:
 💡 O que me move
 Engenharia boa é engenharia bem medida, bem orçada, bem explicada e bem protegida. Quero que qualquer engenheiro tenha, no bolso, a segurança técnica que levei anos para construir.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HendersonGomes&show_icons=true&count_private=true&hide_border=true&theme=default" height="150" /> </p> <p align="center"> 📫 Vamos conversar: <a href="https://www.linkedin.com/in/SEU-LINKEDIN">LinkedIn</a> · <a href="mailto:SEU-EMAIL">E-mail</a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HendersonGomes&show_icons=true&count_private=true&hide_border=true&theme=default" height="150" /> </p> <p align="center"> 📫 Vamos conversar: <a href="https://www.linkedin.com/in/SEU-LINKEDIN">LinkedIn</a> · <a href="mailto:henderson.gomes11@gmail.com">E-mail</a> </p>
