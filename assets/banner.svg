@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1628"/><stop offset="1" stop-color="#12264A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <g transform="translate(120,160)">
+    <polygon points="0,-70 61,-35 61,35 0,70 -61,35 -61,-35" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <path d="M-28,32 V-32 L28,32 V-32" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="-32" r="8" fill="#FFB000"/>
+  </g>
+  <rect x="230" y="70" width="4" height="180" fill="#FFB000"/>
+  <text x="262" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#FFFFFF">Henderson Gomes</text>
+  <text x="262" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#FFB000">Staff Software Engineer</text>
+  <text x="262" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#FFFFFF" fill-opacity="0.85">IA, Automação e Cibersegurança · NeoRise Technology</text>
+  <text x="262" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#FFFFFF" fill-opacity="0.6">Software, automações e IA para problemas reais de engenharia e operação</text>
+</svg>
