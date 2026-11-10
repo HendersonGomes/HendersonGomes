@@ -26,9 +26,9 @@ Scanner de vazamento de dados em planilhas Excel antes de publicar propostas, me
 
 ## 🛠️ Ferramentas
 
-**Desenvolvimento** · TypeScript · React · Python
-**IA e desenvolvimento assistido** · Cursor · Claude Code · Claude · Grok
-**Dados e infraestrutura** · Supabase · PostgreSQL · Vercel · Cloudflare
+- **Desenvolvimento:** TypeScript · React · Python
+- **IA e desenvolvimento assistido:** Cursor · Claude Code · Claude · Grok
+- **Dados e infraestrutura:** Supabase · PostgreSQL · Vercel · Cloudflare
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0A1628?style=flat-square&logo=typescript&logoColor=FFB000">
@@ -58,5 +58,5 @@ Engenheiro civil com MBA em Perícia, Avaliações e Auditoria de Engenharia e p
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HendersonGomes&show_icons=true&hide_border=true&bg_color=0A1628&title_color=FFB000&icon_color=FFB000&text_color=FFFFFF" alt="Estatísticas do GitHub" height="160">
+ <img src="https://streak-stats.demolab.com?user=HendersonGomes&locale=pt_BR&hide_border=true&background=0A1628&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFB000" alt="Sequência de contribuições" height="165">
 </p>
